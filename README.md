@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** and **Lecturer** dedicated to building modern, scalable applications and inspiring the next generation of developers. With expertise spanning frontend, backend, and mobile development, I thrive on creating impactful solutions.
+I'm a passionate **Full-Stack Developer** and **Lecturer** dedicated to building modern, scalable applications and inspiring the next generation of developers. With expertise spanning frontend, backend, and mobile development, I combine technical excellence with a passion for education.
 
 - 💻 **Full-Stack Development** - Frontend & Backend
 - 📱 **Mobile Apps** - Flutter/Dart for cross-platform solutions
@@ -52,9 +52,9 @@ I'm a passionate **Full-Stack Developer** and **Lecturer** dedicated to building
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=is2024&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=is2024&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=is2024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=is2024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=is2024&theme=tokyonight&hide_border=true&background=0d1117)
 
