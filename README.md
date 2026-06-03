@@ -1,7 +1,7 @@
 # 👋 Hi, saya Ismail Mohidin (is2024)
 
 <p align="center">
-  <img alt="header" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2b2b2b&center=true&vCenter=true&width=800&lines=Halo%2C+Saya+Ismail+Mohidin!;Lecturer+%40+Politeknik+Gorontalo+%F0%9F%92%BB;Full-Stack+Developer+%E2%9C%85"/>
+  <img alt="banner" src="./assets/banner.svg" width="100%" />
 </p>
 
 <div align="center">
@@ -42,8 +42,8 @@ Saya Ismail Mohidin — Dosen di Politeknik Gorontalo dan Full-Stack Developer y
 ## Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=is2024&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2024&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=is2024&show_icons=true&theme=github_dark&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2024&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
