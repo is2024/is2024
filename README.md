@@ -1,6 +1,6 @@
 # <div align="center">
 #
-# ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ismail%20Mohidin&desc=Full-Stack%20Developer%20%7C%20Lecturer%20%7C%20Tech%20Visionary&descSize=20&descAlign=50&descAlignY=70&fontSize=90&fontColor=FFFFFF)
+# ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ismail%20Mohidin&desc=Full-Stack%20Developer%20%7C%20Lecturer%20%7C%20Tech%20Visionary&descAlign=51&descAlignY=59&fontSize=70)
 #
 # </div>
 
@@ -17,7 +17,7 @@
 ## 🌌 Welcome to My Digital Universe
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=500&color=4F46E5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+🚀;Tech+Educator+📚;Open+Source+Contributor+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=500&color=4F46E5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+🚀;Tech+Educator+📚;Problem+Solver+💡;Open+Source+Contributor+🌟" alt="Typing Animation"/>
 </div>
 
 ---
@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td width="60%">
-      I'm a **Full-Stack Developer** and **Passionate Educator** crafting elegant solutions at the intersection of **aesthetics and functionality**. With 5+ years of experience, I specialize in building scalable applications, mentoring developers, and pushing the boundaries of what's possible.
+      I'm a **Full-Stack Developer** and **Passionate Educator** crafting elegant solutions at the intersection of **aesthetics and functionality**. With 5+ years of experience, I specialize in building scalable applications, mentoring developers, and pushing the boundaries of what's possible in tech.
 
 **Core Values:**
 - 🎯 **Excellence** - Delivering pixel-perfect, scalable code
@@ -106,11 +106,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=is2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=500&ring_color=4F46E5)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=is2024&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=is2024&layout=donut-vertical&theme=tokyonight&hide_border=true&card_width=500)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=is2024&theme=tokyonight&hide_border=true&ring_color=4F46E5&stroke=4F46E5)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=is2024&theme=tokyonight&hide_border=true&stroke=4F46E5)
 
 </div>
 
@@ -140,9 +140,9 @@
 
 | # | Project | Description | Stack | Status |
 |---|---------|-------------|-------|--------|
-| 1 | **[flutter-kedai-starter](https://github.com/is2024/flutter-kedai-starter)** | 🎨 Professional Flutter starter template with modern architecture & best practices | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | Active |
-| 2 | **[flutter-pos-app-ui](https://github.com/is2024/flutter-pos-app-ui)** | 💳 Beautiful POS UI with responsive design & smooth animations | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | Active |
-| 3 | **[filament-onlineshop-backend](https://github.com/is2024/filament-onlineshop-backend)** | 🛒 Scalable e-commerce backend with admin panel | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | Active |
+| 1 | **[flutter-kedai-starter](https://github.com/is2024/flutter-kedai-starter)** | 🎨 Professional Flutter starter template with modern architecture & best practices | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ✅ Active |
+| 2 | **[flutter-pos-app-ui](https://github.com/is2024/flutter-pos-app-ui)** | 💳 Beautiful POS UI with responsive design & smooth animations | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ✅ Active |
+| 3 | **[filament-onlineshop-backend](https://github.com/is2024/filament-onlineshop-backend)** | 🛒 Scalable e-commerce backend with admin panel | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ✅ Active |
 
 <div align="center">
 
